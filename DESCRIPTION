@@ -1,0 +1,17 @@
+Package: cteviewer
+Type: Package
+Title: Run SQL Common Table Expressions
+Version: 0.1.0
+Author: David Ranzolin
+Maintainer: David Ranzolin <daranzolin@gmail.com>
+Description: Examining CTE SQL queries can be cumbersome, what with the
+    commenting out, copy-pasting, and re-selecting. cteviewer brings the intermediate
+    CTE expressions into R for easier access and further scrutiny.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    DBI,
+    rstudioapi,
+    utils
+RoxygenNote: 7.2.1

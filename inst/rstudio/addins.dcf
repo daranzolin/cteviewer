@@ -1,0 +1,9 @@
+Name: CTE to List
+Description: Send intermediate CTE queries to a list
+Binding: cte2list
+Interactive: false
+
+Name: CTE to Views
+Description: Send intermediate CTE queries to View tabs
+Binding: cte2views
+Interactive: false
